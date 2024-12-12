@@ -1,5 +1,5 @@
 .body {
-    background-image: url("/assets/ground.png");
+    background-image: url("./assets/ground.png");
     background-size: 1500px;
 }
 
